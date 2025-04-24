@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fabia\\source\\repos\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F24DA583-3FBA-430D-AE2F-C8E17EFC0CB6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\fabia\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F24DA583-3FBA-430D-AE2F-C8E17EFC0CB6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\alumnotlsch\\desktop\\mi proyecto\\nuggets\\consoleapp1\\listas ejemplos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24DA583-3FBA-430D-AE2F-C8E17EFC0CB6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\listas ejemplos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DA583-3FBA-430D-AE2F-C8E17EFC0CB6}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F24DA583-3FBA-430D-AE2F-C8E17EFC0CB6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DA583-3FBA-430D-AE2F-C8E17EFC0CB6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\alumnotlsch\\desktop\\mi proyecto\\nuggets\\consoleapp1\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24DA583-3FBA-430D-AE2F-C8E17EFC0CB6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24DA583-3FBA-430D-AE2F-C8E17EFC0CB6}|ConsoleApp1\\ConsoleApp1.csproj|C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\consoleapp1\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24DA583-3FBA-430D-AE2F-C8E17EFC0CB6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "listas ejemplos.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\ConsoleApp1\\listas ejemplos.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\listas ejemplos.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\ConsoleApp1\\listas ejemplos.cs",
+              "RelativeToolTip": "ConsoleApp1\\listas ejemplos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:38:01.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "circulo.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\ConsoleApp1\\circulo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\circulo.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\ConsoleApp1\\circulo.cs",
+              "RelativeToolTip": "ConsoleApp1\\circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:19:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\ConsoleApp1\\cuadrado.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\cuadrado.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\ConsoleApp1\\cuadrado.cs",
+              "RelativeToolTip": "ConsoleApp1\\cuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:06:47.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fabia\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\fabia\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Desktop\\mi proyecto\\nuggets\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T20:41:27.044Z",
               "EditorCaption": ""

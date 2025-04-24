@@ -1,0 +1,7 @@
+C:\Users\alumnotlsch\Desktop\mi proyecto\nuggets\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\alumnotlsch\Desktop\mi proyecto\nuggets\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\alumnotlsch\Desktop\mi proyecto\nuggets\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\alumnotlsch\Desktop\mi proyecto\nuggets\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\alumnotlsch\Desktop\mi proyecto\nuggets\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\alumnotlsch\Desktop\mi proyecto\nuggets\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\alumnotlsch\Desktop\mi proyecto\nuggets\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

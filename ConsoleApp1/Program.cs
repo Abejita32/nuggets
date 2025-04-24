@@ -10,9 +10,13 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ingresa tu numero");
-            string txt = Console.ReadLine();
-            int .TryParse (txt,out int val);
+            listas_ejemplos ejemplo = new listas_ejemplos();
+            ejemplo.start();
+
+
+            //Console.WriteLine("ingresa tu numero");
+            //string txt = Console.ReadLine();
+            //int .TryParse (txt,out int val);
         }
     }
 }
